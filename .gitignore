@@ -1,6 +1,10 @@
+# Folders
+all_annotations/
 __pycache__/
 Datasets/
 COCO-to-YOLO/
+
+# Files
 COCO-to-YOLO/coco_to_yolo.py
 COCO2YOLO.py
-output_annotations/
+yolov8m.pt
