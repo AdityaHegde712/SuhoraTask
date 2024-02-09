@@ -9,3 +9,4 @@ data/
 COCO-to-YOLO/coco_to_yolo.py
 COCO2YOLO.py
 yolov8m.pt
+yolov8n.pt
