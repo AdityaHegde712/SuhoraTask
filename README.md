@@ -1,4 +1,4 @@
-# SuhoraTask
+# Object Detection on HSRID dataset using YOLOv8
 
 ## Dataset:
 
