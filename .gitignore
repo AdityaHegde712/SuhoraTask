@@ -1,2 +1,6 @@
 __pycache__/
 Datasets/
+COCO-to-YOLO/
+COCO-to-YOLO/coco_to_yolo.py
+COCO2YOLO.py
+output_annotations/
