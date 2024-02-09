@@ -40,7 +40,7 @@ Note: Here I've used Python 3.11.4.
 
 ## Results:
 
--   Final Run Data and metrics: runs\detect\train12
+-   Final run data and metrics: runs\detect\train12
 -   Model: runs\detect\train12\weights\best.onnx
 -   Predictions for five randomly sampled images from the validation set: runs\detect\predict
 -   Predictions for five randomly sampled images from the pure background dataset: runs\detect\predict2
