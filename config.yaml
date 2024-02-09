@@ -1,0 +1,14 @@
+path: C:/Users/hifia/Projects/Internship Task/data
+
+# Train and val paths
+train: images/train
+val: images/val
+
+# Labels
+labels:
+    train: labels/train
+    val: labels/val
+
+# Classes
+names:
+    0: ship
