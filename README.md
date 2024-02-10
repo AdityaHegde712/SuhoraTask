@@ -27,7 +27,7 @@ YOLOv8 / Segment Anything Model (SAM).
 
 ## Methodology:
 
-Note: Here I've used Python 3.11.4.
+Note: Here I've used Python 3.10.13.
 
 1. Annotation and dataset inspection and study
 2. Converted the MS COCO annotations to YOLO 1.1 format using traintest2017.json (available in the original dataset)
