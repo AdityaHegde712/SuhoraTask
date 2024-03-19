@@ -10,7 +10,7 @@ Link to my split (70-30): https://drive.google.com/file/d/1O5O8UygEa-bsc9n6MyLFJ
 -   The original imageries for constructing HRSID are 99 Sentinel-1B imageries, 36
     TerraSAR-X and 1 TanDEM-X images.
 -   The above 136 panoramic SAR imageries cropped to 5604 high-resolution SAR images.
--   These 5604 images have dimensions of 800 × 800 pixels, resolution of 96 dpi, and there
+-   These 5604 images have dimensions of 800 × 800 pixels, resolution of 96 dpi, and they
     are in .jpeg format.
 -   The colour depth of the images is 8 bits (one channel).
 -   The extracted 5604 high-resolution SAR images contain 16951 ship instances.
